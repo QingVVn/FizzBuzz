@@ -1,0 +1,6 @@
+D:\Users\jbawang\RiderProjects\KataFizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+D:\Users\jbawang\RiderProjects\KataFizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+D:\Users\jbawang\RiderProjects\KataFizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojAssemblyReference.cache
+D:\Users\jbawang\RiderProjects\KataFizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
+D:\Users\jbawang\RiderProjects\KataFizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+D:\Users\jbawang\RiderProjects\KataFizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
